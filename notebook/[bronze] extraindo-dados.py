@@ -59,7 +59,7 @@ salvar_arquivo_parquet(cotacoes)
 
 # COMMAND ----------
 
-#butils.fs.rm("dbfs:/databricks-results/", True)
+#dbutils.fs.rm("dbfs:/databricks-results/", True)
 
 # COMMAND ----------
 
